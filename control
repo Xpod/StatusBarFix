@@ -1,0 +1,10 @@
+Package: com.xpod.statusbarfix
+Name: StatusBarFix
+Depends: mobilesubstrate, firmware (>= 7)
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Fix status bar not turning white.
+Depiction: http://cydia.timonolsthoorn.nl/com.xpod.statusbarfix/
+Maintainer: Xpod <xpod@timonolsthoorn.nl>
+Author: Xpod <xpod@timonolsthoorn.nl>
+Section: Tweaks
